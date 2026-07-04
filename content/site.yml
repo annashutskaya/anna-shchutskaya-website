@@ -1,0 +1,69 @@
+name: "Anna Shchutskaya"
+headline: "Operations, Client Support & Digital Content Administration"
+location: "Cyprus"
+intro: "Professional portfolio website in development."
+
+about: "This section will introduce Anna’s background across banking operations, international marketing operations, real estate client support, CRM/database work, and digital content administration."
+
+experience:
+  - role: "Client & Operations Support"
+    company: "DOM Real Estate"
+    period: "Cyprus"
+    description: "Client inquiries, CRM/database updates, documentation, follow-up, and operational support."
+
+  - role: "Marketing Operations"
+    company: "Huawei Consumer Business Group"
+    period: "Romania / International markets"
+    description: "Campaign coordination, approval workflows, documentation, KPI tracking, invoice and acceptance-package support."
+
+  - role: "Banking / Credit Operations"
+    company: "Belgazprombank"
+    period: "Belarus"
+    description: "Credit documentation, account and payment activity monitoring, analytical support, and discrepancy resolution."
+
+skills:
+  - category: "Operations & Administration"
+    items:
+      - "Documentation review"
+      - "Process tracking"
+      - "Client follow-up"
+      - "CRM/database updates"
+      - "Reporting"
+
+  - category: "Financial / Banking Operations"
+    items:
+      - "Credit documentation"
+      - "Account/payment activity review"
+      - "Discrepancy resolution"
+      - "KYC/AML awareness"
+
+  - category: "Marketing Operations"
+    items:
+      - "Campaign coordination"
+      - "Approval workflows"
+      - "KPI tracking"
+      - "Vendor coordination"
+      - "Asset checks"
+
+  - category: "Digital Content Administration"
+    items:
+      - "Website content updates"
+      - "CMS-style editing"
+      - "Photography selection"
+      - "Video editing"
+      - "Social media visuals"
+
+portfolio:
+  - title: "Photography"
+    type: "Digital content"
+    description: "A future section for selected photography examples, image selection, and visual presentation."
+    image: ""
+
+  - title: "Video editing"
+    type: "Digital content"
+    description: "A future section for short-form video editing examples, subtitles, sequencing, and export preparation."
+    image: ""
+
+contact:
+  email: ""
+  linkedin: ""
