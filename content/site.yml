@@ -54,7 +54,7 @@ portfolio:
     type: Digital content
     description: A future section for selected photography examples, image
       selection, and visual presentation.
-    image: ""
+    image: /assets/uploads/img_20260621_191727.jpg
   - title: Video editing
     type: Digital content
     description: A future section for short-form video editing examples, subtitles,
